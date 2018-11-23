@@ -29,7 +29,7 @@
 百度开发者工具——工具-转换 
 （未入驻申请的没有）
 
-<img src="https://github.com/MyFinalDay/smartProgram-/blob/master/screenshots/transform.png" width="365" height="619")/>
+<img src="https://github.com/MyFinalDay/smartProgram-/blob/master/screenshots/transform.png" width="365" height="619"/>
 
 
 # 注意
