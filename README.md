@@ -4,6 +4,10 @@
 # 链接
 [开发者社区](https://smartprogram.baidu.com/forum/)  未入驻申请的进入不了
 
+<img src="https://github.com/MyFinalDay/smartProgram-/blob/master/screenshots/develop_forum_1.jpg" width="379" height="148"/>
+
+<img src="https://github.com/MyFinalDay/smartProgram-/blob/master/screenshots/develop_forum_2.jpg" width="278" height="202"/>
+
 
 [开发文档](https://smartprogram.baidu.com/docs/develop/tutorial/codedir/)
 
@@ -34,4 +38,9 @@
 
 # 注意
 * swan标签属性名中不支持下划线
+
+# 博文
+
+[苏宁：我们开发百度小程序遇到的那些“坑”](https://mp.weixin.qq.com/s/v8eT3WGolbabXDI24Ybx9Q)
+ 
 
